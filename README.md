@@ -10,4 +10,4 @@ HTML CSS ile görsel arayüz sağlandı.
 
 <h1> EKRAN GÖRÜNÜMÜ</h1>
 
-![](redux-thunk gıf.gif)
+![](redux-thunkgıf.gif)
